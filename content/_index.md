@@ -1,5 +1,5 @@
 ---
-title: Quartzite
+title: Quartzite XXX
 enableToc: false
 enableFooter: true
 ---
