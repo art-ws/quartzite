@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-20.04
     # https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-first-deployment-with-github_token
     permissions:

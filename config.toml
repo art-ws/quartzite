@@ -1,4 +1,4 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://art-ws.github.io/quartzite/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
